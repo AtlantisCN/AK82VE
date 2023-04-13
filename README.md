@@ -1,8 +1,12 @@
 # AK82VE Install
 Open https://usevia.app with chrome browser!!!
+
 Setting,show design;
+
 design，SELECT USE V2 !!!
+
 design, load AK82VE_via.json
+
 configure! enjoy it!
 
 ## 灯光
