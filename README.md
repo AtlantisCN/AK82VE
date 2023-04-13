@@ -1,5 +1,5 @@
-# AK82VE
-	安装VIA，
+# AK82VE Install
+	安装1.3.1版VIA，
 	打开VIA
 	FILE，IMPORT，选择AK82VE_via.json即可；
 
