@@ -1,8 +1,9 @@
 # AK82VE Install
-	安装1.3.1版VIA，
-	打开VIA
-	FILE，IMPORT，选择AK82VE_via.json即可；
-
+Open https://usevia.app with chrome browser!!!
+Setting,show design;
+design，SELECT USE V2 !!!
+design, load AK82VE_via.json
+configure! enjoy it!
 
 ## 灯光
 ### 方式一：
@@ -21,3 +22,4 @@ FN+左右上下=灯开关，灯效，亮度加减；
 ## 如有异常情况
 
 背后小开关为灯光开关，可以强制关灯；
+](https://usevia.app/)](https://usevia.app/)
